@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-I'm Shing from Cambodia. I'm currently working as s Software Engineer at Pathmazing (https://pathmazing.com/) one of the leading Software Development Firm in Cambodia .
+I'm Shing and I'm a Software Engineer from Cambodia🇰🇭.  
 
-## Skills and Experience
+## Skills
 * NodeJs
 * Rust Programming
 * Database
-* Blockchain R&D at Koompi
+
+## Experiences
+* Issue API for Mobile and Web app
+* Configure and Hosting website
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shenshing)](https://github.com/anuraghazra/github-readme-stats)
