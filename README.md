@@ -10,6 +10,7 @@ I'm Shing and I'm a Software Engineer from Cambodia🇰🇭.
 ## Experiences
 * Issue API for Mobile and Web app
 * Configure and Hosting website
+* Experience with AWS Cloud 
 
 
 ## Contact me
