@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-I'm Shing and I'm a Software Engineer from Cambodia🇰🇭.  
+I'm Shing, a Software Engineer / Project Coordinator from Cambodia🇰🇭.
 
 ## Skills
 * NodeJs
 * Rust Programming
-* Database
+* Databases
+* Infrastructure and Microservices
 
 ## Experiences
 * Issue API for Mobile and Web app
 * Configure and Hosting website
 * Experience with AWS Cloud 
+* System Monitoring & On-call & Project's Coordinator 
 
 
 ## Contact me
